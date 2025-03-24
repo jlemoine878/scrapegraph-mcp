@@ -1,0 +1,5 @@
+[project]
+name = "scrapegraph-mcp"
+version = "0.1.0"
+description = "ScapeGraph MCP Server"
+requires-python = ">=3.10"
