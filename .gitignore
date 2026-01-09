@@ -3,3 +3,4 @@ build/
 *.pyc
 *.log
 __pycache__/
+*.tmp
